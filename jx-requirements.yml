@@ -1,0 +1,6 @@
+environments:
+  - key: dev
+    owner: gitvers
+    repository: jx-environment-dev
+    provider: kubernetes
+    namespace: dev
